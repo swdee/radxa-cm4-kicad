@@ -19,11 +19,10 @@ Note:  Due to the limitation of how KiCAD maps pin numbers between Symbol and Fo
 
 ## Mechanical Validation
 
-### In progress
 
-~~The footprint has been mechanically validated for correct fit with CM4 module.~~
+The footprint has been mechanically validated for correct fit with CM4 module.
 
-![PCB Photo](screenshots/pcb-photo.jpg)
+![PCB Photo](screenshots/cm4-test-board.jpg)
 
 
 ## SMD Stencil
